@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7979c36d-1f8f-4d50-a372-d83e795c6cc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bg0tEcNg40hIPdpM89XcRhdoTe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/net/swampmc/practice/scorebord" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.swampmc.practice.listener" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.swampmc.practice.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\scorebord" />
+      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\util" />
+      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7979c36d-1f8f-4d50-a372-d83e795c6cc8" name="Default Changelist" comment="" />
+      <created>1589038641607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589038641607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="191" key="#Auto_Import" timestamp="1589053678674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="198" key="#Auto_Import/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589040962462" />
+    <state x="538" y="191" key="#Auto_Import/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589053678674" />
+    <state x="521" y="198" key="#Project_Structure" timestamp="1589041510292">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="198" key="#Project_Structure/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041510292" />
+    <state x="396" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589049194171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589045861424" />
+    <state x="396" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589049194171" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1589051333716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589051333716" />
+    <state x="709" y="281" key="FileChooserDialogImpl" timestamp="1589041072258">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="281" key="FileChooserDialogImpl/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041072258" />
+    <state x="423" y="110" key="SettingsEditor" timestamp="1589049514991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="114" key="SettingsEditor/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041073823" />
+    <state x="423" y="110" key="SettingsEditor/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589049514991" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1589041883295">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041883295" />
+  </component>
+</project>
