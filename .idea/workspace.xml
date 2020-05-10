@@ -1,29 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7979c36d-1f8f-4d50-a372-d83e795c6cc8" name="Default Changelist" comment="" />
+    <list default="true" id="60c0a1c1-7727-434a-8c9f-9231dd8969db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SwampMC_Practice_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_8_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_avaje_ebean_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bukkit_craftbukkit_1_8_8_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_8_8_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwampMC-Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/_SwampMC__Practice_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[SwampMC] Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/ArenaManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/ArenaManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/queue/QueueManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/arena/queue/QueueManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/inventory/InventoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/inventory/InventoryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/ladder/LadderInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/ladder/LadderInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/ladder/LadderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/ladder/LadderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/listener/PlayerInteractListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/listener/PlayerInteractListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/scorebord/PersonalScoreboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/scorebord/PersonalScoreboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/util/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/util/ItemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/swampmc/practice/util/ItemBuilder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1bg0tEcNg40hIPdpM89XcRhdoTe" />
+  <component name="ProjectId" id="1biSbsVMjvHvhyLCAcbevzwEUWY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,70 +52,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/net/swampmc/practice/scorebord" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/server/1.8.8/plugins" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15820312" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="net.swampmc.practice.listener" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="net.swampmc.practice.util" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\scorebord" />
-      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\util" />
-      <recent name="E:\intellij-workspace\[SwampMC] Practice\src\main\java\net\swampmc\practice\config" />
-    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7979c36d-1f8f-4d50-a372-d83e795c6cc8" name="Default Changelist" comment="" />
-      <created>1589038641607</created>
+      <changelist id="60c0a1c1-7727-434a-8c9f-9231dd8969db" name="Default Changelist" comment="" />
+      <created>1589113495795</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589038641607</updated>
+      <updated>1589113495795</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="538" y="191" key="#Auto_Import" timestamp="1589053678674">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1589133717717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="521" y="198" key="#Auto_Import/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589040962462" />
-    <state x="538" y="191" key="#Auto_Import/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589053678674" />
-    <state x="521" y="198" key="#Project_Structure" timestamp="1589041510292">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="521" y="198" key="#Project_Structure/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041510292" />
-    <state x="396" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589049194171">
+    <state x="740" y="261" key="FileChooserDialogImpl/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589133717717" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1589133719131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589045861424" />
-    <state x="396" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589049194171" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1589051333716">
+    <state x="440" y="94" key="SettingsEditor/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589133719131" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1589137867160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589051333716" />
-    <state x="709" y="281" key="FileChooserDialogImpl" timestamp="1589041072258">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="709" y="281" key="FileChooserDialogImpl/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041072258" />
-    <state x="423" y="110" key="SettingsEditor" timestamp="1589049514991">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="409" y="114" key="SettingsEditor/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041073823" />
-    <state x="423" y="110" key="SettingsEditor/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589049514991" />
-    <state x="585" y="250" key="run.anything.popup" timestamp="1589041883295">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="585" y="250" key="run.anything.popup/1920.109.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589041883295" />
+    <state width="600" height="424" key="javadoc.popup/1920.109.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589137867160" />
   </component>
 </project>

@@ -38,7 +38,7 @@ public class PersonalScoreboard
         objectiveSign.setLine(0, "񗉷---------------");
         objectiveSign.setLine(1, "Online: " + Bukkit.getServer().getOnlinePlayers().size());
         objectiveSign.setLine(2, "�6 ");
-        objectiveSign.setLine(3, "In queue: " + queueManager.getQueues().size());
+        objectiveSign.setLine(3, "In Queue: " + queueManager.getQueues().size());
 
         for (Arena arenas : arenaManager.getArenas())
         {

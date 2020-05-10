@@ -21,7 +21,8 @@ public class LadderManager
 
     public void loadAll()
     {
-        ladders.add(new Ladder("§eNoDebuff", (short) 16453, Material.POTION));
+        ladders.add(new Ladder("§6NoDebuff", (short) 16453, Material.POTION));
+        ladders.add(new Ladder("§6Soup", (byte) 0, Material.MUSHROOM_SOUP));
     }
 
 }

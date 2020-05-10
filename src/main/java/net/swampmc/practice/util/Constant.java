@@ -12,7 +12,9 @@ public class Constant
     /*
     * Messages constants
      */
-    public static final String QUEUE_JOIN = "";
+    public static final String QUEUE_JOIN_MESSAGE = "§eYou were added to %queuetype% %ladder%.";
+    public static final String QUEUE_LEAVE_MESSAGE = "§eYou were removed from %queuetype% %ladder%.";
+    public static final String QUEUE_VIEW_MESSAGE = "§eYou are in queue %queuetype% %ladder%.";
 
     /*
     * Join constants
@@ -29,12 +31,19 @@ public class Constant
     public static final ItemStack ITEM_EDIT_KIT = new ItemBuilder(Material.BOOK).setName("§2Edit kits").toItemStack();
 
     /*
+    * Queue constants
+     */
+    public static final int ITEM_QUEUE_VIEW_SLOT = 0;
+    public static final int ITEM_QUEUE_LEAVE_SLOT = 8;
+
+    public static final ItemStack ITEM_QUEUE_VIEW = new ItemBuilder(Material.EYE_OF_ENDER).setName("§eView queue").toItemStack();
+    public static final ItemStack ITEM_QUEUE_LEAVE = new ItemBuilder(Material.REDSTONE).setName("§cLeave queue").toItemStack();
+
+    /*
     * Inventories constants
      */
     public static final int INVENTORY_LADDERS_SIZE = 2 * 9;
     public static final String INVENTORY_LADDERS_NAME = "Ladders";
 
-    public static final int INVENTORY_LADDERS_ITEM_CLOSE_SLOT = INVENTORY_LADDERS_SIZE - 1;
-
-    public static final ItemStack INVENTORY_LADDERS_ITEM_CLOSE = new ItemBuilder(Material.REDSTONE).setName("§cClose").toItemStack();
+    public static final ItemStack INVENTORY_ITEM_CLOSE = new ItemBuilder(Material.REDSTONE).setName("§cClose").toItemStack();
 }

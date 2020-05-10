@@ -1,19 +1,20 @@
 package net.swampmc.practice.util;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
-
 import org.bukkit.Color;
 import org.bukkit.DyeColor;
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
+import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.EnchantmentStorageMeta;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.inventory.meta.LeatherArmorMeta;
 import org.bukkit.inventory.meta.SkullMeta;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
 
 public class ItemBuilder
 {
@@ -79,16 +80,21 @@ public class ItemBuilder
         return this;
     }
 
+    public ItemBuilder removePotionLore()
+    {
+        ItemMeta meta = this.is.getItemMeta();
+        meta.addItemFlags(new ItemFlag[]{ItemFlag.HIDE_POTION_EFFECTS});
+        this.is.setItemMeta(meta);
+
+        return this;
+    }
+
     public ItemBuilder setSkullOwner(String owner)
     {
-        try
-        {
-            SkullMeta im = (SkullMeta) this.is.getItemMeta();
-            im.setOwner(owner);
-            this.is.setItemMeta(im);
-        } catch (ClassCastException localClassCastException)
-        {
-        }
+        SkullMeta im = (SkullMeta) this.is.getItemMeta();
+        im.setOwner(owner);
+        this.is.setItemMeta(im);
+
         return this;
     }
 

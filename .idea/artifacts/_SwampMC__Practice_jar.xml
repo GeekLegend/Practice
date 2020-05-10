@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="[SwampMC] Practice:jar">
-    <output-path>$USER_HOME$/Desktop/server/1.8.8/plugins</output-path>
-    <root id="archive" name="[SwampMC] Practice.jar">
-      <element id="module-output" name="[SwampMC] Practice" />
-    </root>
-  </artifact>
-</component>

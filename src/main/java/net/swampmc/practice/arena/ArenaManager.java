@@ -1,6 +1,8 @@
 package net.swampmc.practice.arena;
 
 import lombok.Getter;
+import net.swampmc.practice.arena.queue.Queue;
+import net.swampmc.practice.ladder.Ladder;
 import net.swampmc.practice.util.Constant;
 import net.swampmc.practice.util.Debug;
 import org.bukkit.Location;
@@ -74,5 +76,19 @@ public class ArenaManager
         return null;
     }
 
+    public Arena getByLadder(Ladder ladder)
+    {
+        for (Arena arena : arenas)
+        {
+            if (arena != null)
+            {
+                if (arena.get.getLadder().equals(ladder))
+                {
+                    return queue;
+                }
+            }
+        }
+        return null;
+    }
 
 }
